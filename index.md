@@ -5,14 +5,11 @@
 	crossorigin="anonymous"
 	referrerpolicy="no-referrer"
 />
-<script
-	src="https://cdnjs.cloudflare.com/ajax/libs/marked/15.0.7/marked.min.js"
-	integrity="sha512-rPuOZPx/WHMHNx2RoALKwiCDiDrCo4ekUctyTYKzBo8NGA79NcTW2gfrbcCL2RYL7RdjX2v9zR0fKyI4U4kPew=="
-	crossorigin="anonymous"
-	referrerpolicy="no-referrer"
->
-</script>
-<!--<style>body{font:20px"Verdana";}</style>-->
+<style>
+	body {
+		font: 20px "Verdana";
+	}
+</style>
 
 # Vore
 - Normal part of everyday life
