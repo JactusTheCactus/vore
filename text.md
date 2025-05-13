@@ -5,3 +5,12 @@
 - Who can Vore?
 	- Women
 		- Post-puberty
+- Terms:
+	- Vore
+		- The act of swallowing another person whole
+	- Pred
+		- A woman in the context of a Vore scenario
+			- Only when said woman is the one doing the Voring
+	- Prey
+		- A person in the context of a Vore scenario
+			- Only when said person is the one being Vored
