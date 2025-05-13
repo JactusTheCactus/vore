@@ -1,4 +1,6 @@
 fetch("text.md").then((response) => response.text()).then((text) => {
+	text = text
+		.replace(/    /g, "\t");
 	const md =
 	{
 		header: text
